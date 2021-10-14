@@ -2,6 +2,8 @@
 # treeZip
 解决文件树打包复杂的问题，将压缩文件，文件夹文件树注册到右键菜单。
 选中文件，文件夹直接压缩，右键空白打开文件树界面选择文件压缩
+安装包地址：
+https://github.com/zhongming955/treeZip
 ## 安装
 ```
 npm install
